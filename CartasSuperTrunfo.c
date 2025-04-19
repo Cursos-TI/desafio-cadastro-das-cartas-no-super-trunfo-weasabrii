@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main(){
     print("Desafio Xadrez!\n");
+    printf("Novo Comit\n");
 
 
 
